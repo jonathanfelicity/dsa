@@ -1,1 +1,49 @@
-a.out*
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# Dependency directories
+lib/
+vendor/
+
+# Editor and IDE files
+*~
+.*.swp
+*.swo
+.vscode/
+.idea/
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+
+# Log files
+*.log
+
+# Generated files
+*.generated
+
+# Compiled header files
+*.gch
+
+# Custom project-specific files
+# Add any other patterns specific to your project here
+
